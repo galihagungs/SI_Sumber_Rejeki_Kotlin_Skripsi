@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Sistem Informasi SJ</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="username">Username</string>
+    <string name="nama">Nama</string>
+    <string name="roles">Roles</string>
+
+    <string-array name="Roles">
+        <item>Pilih Role</item>
+        <item>Admin</item>
+        <item>Pengelola</item>
+        <item>Karyawan</item>
+    </string-array>
+
+    <string-array name="Tahun">
+        <item>2022</item>
+        <item>2023</item>
+    </string-array>
+
+    <string-array name="Bulan">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+
+    <string name="selected_item">Selected item:</string>
+    <string name="kasir">Kasir</string>
+    <string name="admin">Admin</string>
+    <string name="password">Password</string>
+    <string name="tambah_barang">Tambah Barang</string>
+</resources>
